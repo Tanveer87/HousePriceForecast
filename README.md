@@ -5,12 +5,12 @@ House Price Prediction - [Dataset](https://www.kaggle.com/c/house-prices-advance
 
 
 ## Technologies Used
--Python
--Flask
--TensorFlow
--HTML
--CSS
--Git
+- Python
+- Flask
+- TensorFlow
+- HTML
+- CSS
+- Git
 
 ## Installations Required
 For running the source code on your local machine, the following dependencies are required.
